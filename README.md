@@ -33,8 +33,3 @@ https://doi.org/10.1109/ARSO64737.2025.11124985
 🚧 **Under Development — Preparing for Public Release**
 
 The source code, installation instructions, simulation configurations, and experimental documentation are being prepared for public availability.
-
-## Authors
-
-Achmad Akmal Fikri & Nobutomo Matsunaga  
-Kumamoto University, Japan
